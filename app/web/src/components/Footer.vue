@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        PyOx gem install ox :)
+        PyOx gem install ox :) :)
       </div>
       <div class="col-lg-6">
       </div>
